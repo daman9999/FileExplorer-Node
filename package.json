@@ -1,0 +1,22 @@
+{
+  "name": "fileexplorer-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daman9999/file-explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daman9999/file-explorer/issues"
+  },
+  "homepage": "https://github.com/daman9999/file-explorer#readme",
+  "description": ""
+}

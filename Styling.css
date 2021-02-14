@@ -1,0 +1,89 @@
+/*
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+*/
+.nav{
+    position: fixed;
+    top:0;
+    width:100%;
+
+}
+
+
+.breadcrumb {
+    background: black;
+    height: 50px;
+    align-items: center;
+    border-radius: 5px;
+    padding: 5 0;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 28px;
+
+}
+
+.active-a:hover{
+
+    text-decoration: none;
+    border-color: red;
+  color: red;
+
+
+
+
+}
+
+
+table{
+    background: #a9a9a9;
+    margin:100px 10px;
+
+}
+thead{
+    background: red;
+    color: white;
+    cursor: pointer;
+
+}
+
+
+
+ion-icon {
+color: red;
+font-size: 16px;
+
+}
+tbody{
+    height: 300px;
+    overflow-y: scroll;
+    display: block;
+
+}
+
+thead , tbody tr{
+    display: table;
+    table-layout: fixed;
+    width:100%;
+}
+
+
+footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+    height: 60px;
+    line-height: 60px;
+    background: #a9a9a9;
+    color: white;
+}
+.fot{
+    color: #fff;
+
+}
